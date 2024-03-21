@@ -1053,6 +1053,15 @@ section {
   margin-bottom: 0;
 }
 
+.contact .container .row a{
+  text-decoration: none;
+  color: #444444;
+}
+.contact .container .row a:hover {
+  color: #fdd067;
+  text-decoration: none;
+}
+
 .contact .container .mapouter {
   height: 100%;
   width: 100%;
